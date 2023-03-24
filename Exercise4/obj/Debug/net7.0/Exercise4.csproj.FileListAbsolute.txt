@@ -1,0 +1,15 @@
+D:\C#\1dz\Exercise4\bin\Debug\net7.0\Exercise4.exe
+D:\C#\1dz\Exercise4\bin\Debug\net7.0\Exercise4.deps.json
+D:\C#\1dz\Exercise4\bin\Debug\net7.0\Exercise4.runtimeconfig.json
+D:\C#\1dz\Exercise4\bin\Debug\net7.0\Exercise4.dll
+D:\C#\1dz\Exercise4\bin\Debug\net7.0\Exercise4.pdb
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.csproj.AssemblyReference.cache
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.AssemblyInfoInputs.cache
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.AssemblyInfo.cs
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.csproj.CoreCompileInputs.cache
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.dll
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\refint\Exercise4.dll
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.pdb
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\Exercise4.genruntimeconfig.cache
+D:\C#\1dz\Exercise4\obj\Debug\net7.0\ref\Exercise4.dll
